@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/MotorActualizaFecha/MotorActualizaFecha?WSDL" uri="wsdl/localhost_8080/MotorActualizaFecha/MotorActualizaFecha.wsdl"/>
+    <system systemId="http://localhost:8080/MotorActualizaFecha/MotorActualizaFecha?xsd=1" uri="wsdl/localhost_8080/MotorActualizaFecha/MotorActualizaFecha.xsd_1.xsd"/>
+    <system systemId="http://192.168.11.141:8080/MotorActualizaFecha/MotorActualizaFecha?WSDL" uri="wsdl/192.168.11.141_8080/MotorActualizaFecha/MotorActualizaFecha.wsdl"/>
+    <system systemId="http://192.168.11.141:8080/MotorActualizaFecha/MotorActualizaFecha?xsd=1" uri="wsdl/192.168.11.141_8080/MotorActualizaFecha/MotorActualizaFecha.xsd_1.xsd"/>
+    <system systemId="http://192.168.11.154:8080/MotorActualizaFecha/MotorActualizaFecha?WSDL" uri="wsdl/192.168.11.154_8080/MotorActualizaFecha/MotorActualizaFecha.wsdl"/>
+    <system systemId="http://192.168.11.154:8080/MotorActualizaFecha/MotorActualizaFecha?xsd=1" uri="wsdl/192.168.11.154_8080/MotorActualizaFecha/MotorActualizaFecha.xsd_1.xsd"/>
+</catalog>
